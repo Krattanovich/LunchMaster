@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="push_button" type="id" />
+    <item name="text_view" type="id" />
+    <item name="generatenumber" type="id" />
+    <item name="generate" type="id" />
+</resources>
